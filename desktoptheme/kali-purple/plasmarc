@@ -1,0 +1,17 @@
+[Settings]
+FallbackTheme=default
+
+[Wallpaper]
+defaultWallpaperTheme=KaliTilesPurple
+defaultFileSuffix=.jpg
+defaultWidth=3840
+defaultHeight=2160
+
+[ContrastEffect]
+enabled=true
+contrast=0.17
+intensity=1.25
+saturation=9
+
+[AdaptativeTransparency]
+enabled=true

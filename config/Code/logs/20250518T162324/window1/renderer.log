@@ -1,0 +1,7 @@
+2025-05-18 16:23:25.746 [info] Started local extension host with pid 13384.
+2025-05-18 16:23:25.820 [info] Started initializing default profile extensions in extensions installation folder. file:///home/debian/.vscode/extensions
+2025-05-18 16:23:25.827 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-18 16:23:26.172 [info] ComputeTargetPlatform: linux-x64
+2025-05-18 16:23:26.267 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/debian/.vscode/extensions
+2025-05-18 16:23:26.456 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-18 16:23:28.637 [info] [perf] Render performance baseline is 12ms

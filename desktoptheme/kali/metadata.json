@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "devel@kali.org",
+                "Name": "Kali Devel Team"
+            }
+        ],
+        "Category": "",
+        "Description": "Kali Plasma Theme",
+        "EnabledByDefault": true,
+        "Id": "Kali",
+        "License": "GPL-3.0+",
+        "Name": "Kali",
+        "Version": "1.0.0",
+        "Website": "https://www.kali.org"
+    },
+    "X-Plasma-API": "5.0"
+}

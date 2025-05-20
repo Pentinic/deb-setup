@@ -1,0 +1,17 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[General]
+count=1
+rules=e57c17b8-7fe5-44e2-a68f-375488e8822e
+
+[e57c17b8-7fe5-44e2-a68f-375488e8822e]
+Description=Window settings for org.kde.konsole
+opacityactive=99
+opacityactiverule=2
+shaderule=3
+title=~ : zsh — Konsole
+types=1
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1

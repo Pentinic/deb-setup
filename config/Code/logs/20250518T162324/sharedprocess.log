@@ -1,0 +1,4 @@
+2025-05-18 16:23:26.111 [info] Started initializing default profile extensions in extensions installation folder. file:///home/debian/.vscode/extensions
+2025-05-18 16:23:26.345 [info] ComputeTargetPlatform: linux-x64
+2025-05-18 16:23:26.348 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/debian/.vscode/extensions Unable to create file 'vscode-userdata:/home/debian/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2025-05-18 16:23:26.349 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/debian/.vscode/extensions
